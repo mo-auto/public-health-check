@@ -9,6 +9,16 @@
         "githubUri": "",
         "license": "",
         "lastUpdated": "",
-        "tags": []
+        "tags": [],
+        "configs": {
+            "author": "mo-auto",
+            "author_website": "",
+            "github_uri": "",
+            "last_updated": "",
+            "license": "",
+            "project_description": "health_patched",
+            "type": "",
+            "version": "1.0.0"
+        }
     }
 }
